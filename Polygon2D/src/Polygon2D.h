@@ -4,5 +4,7 @@
 
 // Application
 #include "Polygon2D/Application.h"
+// Log
+#include "Polygon2D/Log.h"
 // EntryPoint
 #include "Polygon2D/EntryPoint.h"

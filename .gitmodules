@@ -1,0 +1,3 @@
+[submodule "Polygon2D/vendor/spdlog"]
+	path = Polygon2D/vendor/spdlog
+	url = https://github.com/gabime/spdlog
